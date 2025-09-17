@@ -1,0 +1,29 @@
+{
+  "token": "MTQxMDc3MjA4NDE1MzUyMDI3OQ.G6PsNw.ce3EYQv6IsMHOkDqGDvTFg8FEMuWM1SvMEGXf0",
+
+  "guildIds": [1304826755994882088],
+
+  "messages": [
+    "fiNisH, B2y BnOheba - discord.gg/6GMkZAFD @everyone \ @here",
+    "fiNisH, B2y BnOheba - discord.gg/6GMkZAFD @everyone \ @here",
+    "fiNisH, B2y BnOheba - discord.gg/6GMkZAFD @everyone \ @here",
+    "fiNisH, B2y BnOheba - discord.gg/6GMkZAFD @everyone \ @here",
+    "fiNisH, B2y BnOheba - discord.gg/6GMkZAFD @everyone \ @here",
+    "fiNisH, B2y BnOheba - discord.gg/6GMkZAFD @everyone \ @here",
+    "fiNisH, B2y BnOheba - discord.gg/6GMkZAFD @everyone \ @here",
+    "fiNisH, B2y BnOheba - discord.gg/6GMkZAFD @everyone \ @here",
+    "fiNisH, B2y BnOheba - discord.gg/6GMkZAFD @everyone \ @here",
+    "fiNisH, B2y BnOheba - discord.gg/6GMkZAFD @everyone \ @here"
+  ],
+
+  "repeat": {
+    "mode": "infinite",
+    "delayBetweenCycles": 1000
+  },
+
+  "timings": {
+    "delayBetweenMessages": 10,
+    "delayBetweenChannels": 10,
+    "delayOnError": 10
+  }
+}
